@@ -1,7 +1,7 @@
 
 # Remote Kinematic Analysis for Mobility Scooter Riders Leveraging Edge AI
 
-This repository contains the implementation and supporting resources for research paper **"Remote Kinematic Analysis for Mobility Scooter Riders Leveraging Edge AI"** presented at the **AAAI Fall Symposium 2024**. The project involves **marker detection** and dataset processing, alongside performance analysis using various metrics. Click Here! [https://doi.org/10.1609/aaaiss.v4i1.31808](https://doi.org/10.1609/aaaiss.v4i1.31808)
+This repository contains the implementation and supporting resources for research paper **"Remote Kinematic Analysis for Mobility Scooter Riders Leveraging Edge AI"** presented at the **AAAI Fall Symposium 2024**. The project involves **marker detection** and dataset processing, alongside performance analysis using various metrics. Click Here ([https://doi.org/10.1609/aaaiss.v4i1.31808](https://doi.org/10.1609/aaaiss.v4i1.31808))
 
 ![Paper Pipeline](./assets/pipeline.png)
 
